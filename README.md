@@ -1,1 +1,1 @@
-﻿
+﻿This is a console application for practicing Git Control Versionning
